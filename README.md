@@ -9,4 +9,4 @@ silverblade02/silverblade02 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src='Gun.jpg'></img>
+<img src='https://www.scientificamerican.com/article/the-science-is-clear-gun-control-saves-lives/'></img>
