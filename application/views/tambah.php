@@ -14,8 +14,8 @@
 				<div class="card-body">
 					<form action="" method="post" class="needs-validation" novalidate>
 						<div class="form-group">
-							<label for="nama_ruang">Nama Ruangan</label>
-							<input type="text" class="form-control" name="nama_ruang" id="nama_ruang" placeholder="Masukan nama ruangan" autocomplete="off" required>
+							<label for="nama_murid">Nama Ruangan</label>
+							<input type="text" class="form-control" name="nama_murid" id="nama_murid" placeholder="Masukan nama ruangan" autocomplete="off" required>
 							<div class="invalid-feedback">
 								Anda belum memasukan nama ruangan.
 							</div>

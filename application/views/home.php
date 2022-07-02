@@ -7,7 +7,7 @@
 </div>
 
 <div class="pricing-header px-3 py-1 pt-md-3 pb-md-4 mx-auto text-center">
-  <h1 class="display-4 pt-0">Tabel Nilai Kebersihan Kelas SMA Quantum Inti Indonesia</h1>
+  <h1 class="display-4 pt-0">Tabel Nilai Perilaku Siswa/Siswi SMA Quantum Inti Indonesia</h1>
   <?php if($this->session->flashdata('pesan') == "Ditambah"): ?>
     <div class="alert alert-success" role="alert">
       Data berhasil ditambah
@@ -34,11 +34,11 @@
         <th rowspan="2" class="align-middle text-center">Aksi</th>
       </tr>
       <tr>
-        <th class="text-center">Meja</th>
-        <th class="text-center">Jendela</th>
-        <th class="text-center">Lantai</th>
-        <th class="text-center">Dinding</th>
-        <th class="text-center">Pintu</th>
+        <th class="text-center">Akademik</th>
+        <th class="text-center">Disiplin</th>
+        <th class="text-center">Kebersihan</th>
+        <th class="text-center">Ibadah dan Spiritual</th>
+        <th class="text-center">Emosi dan sosial</th>
         <th class="text-center">Rerata</th>
       </tr>
     </thead>
@@ -46,11 +46,11 @@
       <?php 
       $no = 1;
       foreach ($nilai as $data): ?>
-      <tr <?php if ($data['keterangan'] == "Perlu dibersihkan secara benar!"){
+      <tr <?php if ($data['keterangan'] == "Perbaiki dirimu menjadi siswa/siswi yang teladan...."){
         echo "class = 'bg-warning'";
       }?>>
         <th class="align-middle text-center"><?= $no++ ?></th>
-        <td class="align-middle"><?= $data['nama_ruangan'] ?></td>
+        <td class="align-middle"><?= $data['nama_murid'] ?></td>
         <td class="align-middle text-center"><?= $data['nilai1'] ?></td>
         <td class="align-middle text-center"><?= $data['nilai2'] ?></td>
         <td class="align-middle text-center"><?= $data['nilai3'] ?></td>

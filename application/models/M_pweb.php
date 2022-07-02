@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class M_pweb extends CI_Model
 {
 	function read(){
-		$this->db->order_by('nama_ruangan', 'Asc');
+		$this->db->order_by('nama_murid', 'Asc');
 		return $this->db->get('tbl_nilai')->result_array();
 	}
 	
@@ -16,15 +16,15 @@ class M_pweb extends CI_Model
 		$nilai5 = $this->input->post('n_pert5');
 		$rata = ($nilai1 + $nilai2 + $nilai3 + $nilai4 + $nilai5)/5;
 		if ($rata <= 75){
-			$keterangan = "Perlu dibersihkan secara benar!";
+			$keterangan = "Perbaiki dirimu menjadi siswa/siswi yang teladan....";
 		} elseif ($rata >= 75){
-			$keterangan = "Tetap jaga kebersihan ruangannya";
+			$keterangan = "Tetap jaga etika dan perilakumu";
 		} else {
 			$keterangan = "Nilai Tidak Valid";
 		}
 
 		$data = [
-			'nama_ruangan' => $this->input->post('nama_ruang'),
+			'nama_murid' => $this->input->post('nama_murid'),
 			'nilai1' => $nilai1,
 			'nilai2' => $nilai2,
 			'nilai3' => $nilai3,
@@ -53,15 +53,15 @@ class M_pweb extends CI_Model
 		$nilai5 = $this->input->post('n_pert5');
 		$rata = ($nilai1 + $nilai2 + $nilai3 + $nilai4 + $nilai5)/5;
 		if ($rata <= 75){
-			$keterangan = "Perlu dibersihkan secara benar!";
+			$keterangan = "Perbaiki dirimu menjadi siswa/siswi yang teladan....";
 		} elseif ($rata >= 75){
-			$keterangan = "Tetap jaga kebersihan ruangannya";
+			$keterangan = "Tetap jaga etika dan perilakumu";
 		} else {
 			$keterangan = "Nilai Tidak Valid";
 		}
 
 		$data = [
-			'nama_ruangan' => $this->input->post('nama_ruang'),
+			'nama_murid' => $this->input->post('nama_murid'),
 			'nilai1' => $nilai1,
 			'nilai2' => $nilai2,
 			'nilai3' => $nilai3,
