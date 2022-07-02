@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+
+
 silverblade02/silverblade02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src='https://www.scientificamerican.com/article/the-science-is-clear-gun-control-saves-lives/'></img>
+<img src='https://user-images.githubusercontent.com/108471020/177003123-c046f5ee-83a5-4d2d-99a8-75681427be45.jpg'></img>
