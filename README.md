@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @silverblade02
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+TUGAS LSP PEMROGRAM (NILAI PERILAKU SISWA/SISWI SMA QUANTUM INTI INDONESIA DENGAN CODEIGNITER)
+ARI ROYANI BIYA
+51418045
+4IA13
 
-
-
-silverblade02/silverblade02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <img src='https://user-images.githubusercontent.com/108471020/177003123-c046f5ee-83a5-4d2d-99a8-75681427be45.jpg'></img>
