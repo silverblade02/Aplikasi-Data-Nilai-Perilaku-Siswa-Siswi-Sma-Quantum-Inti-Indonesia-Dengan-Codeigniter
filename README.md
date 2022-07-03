@@ -11,8 +11,8 @@ Aplikasi ini mempunyai fitur CRUD (Create Read Update Delete) dan menggunakan da
 ![2](https://user-images.githubusercontent.com/108471020/177028564-264c4a2b-7150-4031-b206-ac62d01a2926.png)
 
 - Hal ini juga ada dapat kodingan index : 
-![image](https://user-images.githubusercontent.com/108471020/177028797-e85097b9-3534-4cc9-bba5-7167288042b9.png)
 ![image](https://user-images.githubusercontent.com/108471020/177028807-9d06627e-ea18-482f-864f-4f6666055160.png)
+![image](https://user-images.githubusercontent.com/108471020/177028797-e85097b9-3534-4cc9-bba5-7167288042b9.png)
 
 -	Dan juga berlangsung pada form edit dan tambah :
 ![5](https://user-images.githubusercontent.com/108471020/177028543-a5d3dfe2-4f09-453d-9a7f-c6510c9f0a70.png)
