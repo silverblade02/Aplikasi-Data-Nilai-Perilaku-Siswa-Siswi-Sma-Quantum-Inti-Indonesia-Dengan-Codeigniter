@@ -11,33 +11,33 @@ Aplikasi ini mempunyai fitur CRUD (Create Read Update Delete) dan menggunakan da
 ![2](https://user-images.githubusercontent.com/108471020/177028564-264c4a2b-7150-4031-b206-ac62d01a2926.png)
 
 - Hal ini juga ada dapat kodingan index :
-</br> 
+
 ![image](https://user-images.githubusercontent.com/108471020/177028807-9d06627e-ea18-482f-864f-4f6666055160.png)
 ![image](https://user-images.githubusercontent.com/108471020/177028797-e85097b9-3534-4cc9-bba5-7167288042b9.png)
 
 -	Dan juga berlangsung pada form edit dan tambah :
-</br> 
+
 ![5](https://user-images.githubusercontent.com/108471020/177028543-a5d3dfe2-4f09-453d-9a7f-c6510c9f0a70.png)
 ![6](https://user-images.githubusercontent.com/108471020/177028546-e249cab9-edf8-4044-8630-3ed9f8c9b3ab.png)
 
 2. Koneksi Database
 Di dalam file database.php saya mengkoneksi database dengan nama "murid" dengan username root tanpa password
-</br> 
+
 ![7](https://user-images.githubusercontent.com/108471020/177028539-622d294a-6b8d-46cb-a36a-959e68c02ffd.png)
 
 3. Tabel-tabel yang digunakan
-</br> 
+
 tbl_nilai
-</br> 
+
 ![8](https://user-images.githubusercontent.com/108471020/177028534-465c2ce9-ac14-4c22-83e6-e7677d71f36a.png)
 
 tbl_user
-</br> 
+
 ![9](https://user-images.githubusercontent.com/108471020/177028533-53b12131-0584-4e01-bb39-67c4c3449bcd.png)
 
 5. Operasi untuk mengakses database
 Operasi pengaksesan database ada pada config.php yang digunakan untuk untuk mengisi libraries dengan database yang sudah kita buat
-</br> 
+
 ![10](https://user-images.githubusercontent.com/108471020/177028531-ab88ce35-6f09-43e6-bc0f-c3fb7455d79e.png)
 
 7. Skenario pengujian database
