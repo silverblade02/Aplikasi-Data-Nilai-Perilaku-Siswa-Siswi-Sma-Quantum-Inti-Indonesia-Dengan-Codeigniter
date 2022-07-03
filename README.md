@@ -45,6 +45,7 @@ Operasi pengaksesan database ada pada config.php yang digunakan untuk untuk meng
 ![11](https://user-images.githubusercontent.com/108471020/177028527-57a91ad5-ffe9-4bdc-bc9a-530932bab4cd.png)
 
 - Apakah data akan tersimpan jika tidak mengisi semua field pada form tambah dan ubah data? Tidak, harus mengisi semua field agar dapat menyimpan ataupun mengubahnya.
+
 ![12](https://user-images.githubusercontent.com/108471020/177028512-44b9d26b-2da8-4eef-ad8d-5645d81b0070.png)
 
 - Apakah data akan terhapus jika kita mengklik button hapus pada setiap baris? Ya, akan terhapus jika kita mengklik button hapus pada setiap baris.
