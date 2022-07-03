@@ -34,13 +34,13 @@ Operasi pengaksesan database ada pada config.php yang digunakan untuk untuk meng
 <img src='![image](https://user-images.githubusercontent.com/108471020/177027869-72ed94a7-2ee5-4c05-afdb-81580f70995a.png)'></img>
 
 7. Skenario pengujian database
-> Jika menambahkan atau mengubah data nilai siswa/siswi apakah data di dalam tabel nilai akan bertambah dan berubah? Ya, akan bertambah dan berubah. Selanjutnya, akan menampilkan baris berwarna kalau nilai tersebut kurang dari 75 dengan keterangannya.
+- Jika menambahkan atau mengubah data nilai siswa/siswi apakah data di dalam tabel nilai akan bertambah dan berubah? Ya, akan bertambah dan berubah. Selanjutnya, akan menampilkan baris berwarna kalau nilai tersebut kurang dari 75 dengan keterangannya.
 <img src='![image](https://user-images.githubusercontent.com/108471020/177027921-f7f6e0d2-28f1-4aed-99c5-54f44f77b0c7.png)'></img>
-> Apakah data akan tersimpan jika tidak mengisi semua field pada form tambah dan ubah data? Tidak, harus mengisi semua field agar dapat menyimpan ataupun mengubahnya.
+- Apakah data akan tersimpan jika tidak mengisi semua field pada form tambah dan ubah data? Tidak, harus mengisi semua field agar dapat menyimpan ataupun mengubahnya.
 <img src='![image](https://user-images.githubusercontent.com/108471020/177027899-ace8f7a0-a9ce-4fd7-a580-b545e71843ed.png)'></img>
-> Apakah data akan terhapus jika kita mengklik button hapus pada setiap baris? Ya, akan terhapus jika kita mengklik button hapus pada setiap baris.
+- Apakah data akan terhapus jika kita mengklik button hapus pada setiap baris? Ya, akan terhapus jika kita mengklik button hapus pada setiap baris.
 <img src='![image](https://user-images.githubusercontent.com/108471020/177027894-24448789-95aa-45aa-be55-511baa515378.png)'></img>
->	Apakah dapat login ke dalam program tersebut? Ya, dengan mengisi username dan password akan dapat melogin ke dalam program tersebut
+-	Apakah dapat login ke dalam program tersebut? Ya, dengan mengisi username dan password akan dapat melogin ke dalam program tersebut
 <img src='![image](https://user-images.githubusercontent.com/108471020/177027636-97ce5d26-a95c-4983-a8dd-57808273e2cb.png)'></img>
 
 8. Pengunaan komentar pada program
