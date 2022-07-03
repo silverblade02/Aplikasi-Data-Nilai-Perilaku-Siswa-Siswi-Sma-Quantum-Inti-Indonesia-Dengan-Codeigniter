@@ -42,5 +42,5 @@ Ini adalah komentar dari semua baris yang ada di dalam program saya. Hal ini dig
 Ini adalah semua procedure dan function yang terdapat pada program saya. Guna dari procedure dan function ini adalah untuk memberikan fungsi CRUD pada program saya. Cara kerjanya dengan menambahkan <?php defined('BASEPATH') OR exit('No direct script access allowed'); /?> diantara awalan dan akhir procedure pada PHP boleh anda tambahkan function yang sesuai anda inginkan.
 
 10. Cara Kerja Algoritma
-![Flowchart Program](https://user-images.githubusercontent.com/108471020/177028456-e9224454-8f7f-425c-bf7e-25b5418fa79c.jpg)
 Ini merupakan cara kerja algoritma dengan menggunakan flowchart untuk login dan melakukan CRUD pada program tersebut.
+![Flowchart Program](https://user-images.githubusercontent.com/108471020/177028456-e9224454-8f7f-425c-bf7e-25b5418fa79c.jpg)
