@@ -20,12 +20,25 @@ Aplikasi ini mempunyai fitur CRUD (Create Read Update Delete) dan menggunakan da
 ![5](https://user-images.githubusercontent.com/108471020/177028543-a5d3dfe2-4f09-453d-9a7f-c6510c9f0a70.png)
 ![6](https://user-images.githubusercontent.com/108471020/177028546-e249cab9-edf8-4044-8630-3ed9f8c9b3ab.png)
 
-2. Koneksi Database
+2. Tampilan program per halaman :
+- Home
+![image](https://user-images.githubusercontent.com/108471020/177030083-7f16bedc-55be-4cb5-adfb-d800308416fd.png)
+
+- Login
+![image](https://user-images.githubusercontent.com/108471020/177030086-1a3c14b0-11b4-46aa-8e2a-5b00e3ec078e.png)
+
+- Tambah Data
+![image](https://user-images.githubusercontent.com/108471020/177030087-b41151b7-820c-4688-943c-bdd8db3d8562.png)
+
+- Edit Data
+![image](https://user-images.githubusercontent.com/108471020/177030096-e1ca7f96-a4ba-475d-b85f-1d2d02744bb0.png)
+
+3. Koneksi Database
 Di dalam file database.php saya mengkoneksi database dengan nama "murid" dengan username root tanpa password
 
 ![7](https://user-images.githubusercontent.com/108471020/177028539-622d294a-6b8d-46cb-a36a-959e68c02ffd.png)
 
-3. Tabel-tabel yang digunakan
+4. Tabel-tabel yang digunakan
 
 tbl_nilai
 
@@ -49,7 +62,8 @@ Operasi pengaksesan database ada pada config.php yang digunakan untuk untuk meng
 ![12](https://user-images.githubusercontent.com/108471020/177028512-44b9d26b-2da8-4eef-ad8d-5645d81b0070.png)
 
 - Apakah data akan terhapus jika kita mengklik button hapus pada setiap baris? Ya, akan terhapus jika kita mengklik button hapus pada setiap baris.
-![13](https://user-images.githubusercontent.com/108471020/177028503-69e7ae64-1cb2-4aca-b813-73b815f2263b.png)
+
+![image](https://user-images.githubusercontent.com/108471020/177030038-b3069533-95ef-49d4-9cf6-d47469f3d275.png)
 
 -	Apakah dapat login ke dalam program tersebut? Ya, dengan mengisi username dan password akan dapat melogin ke dalam program tersebut
 
